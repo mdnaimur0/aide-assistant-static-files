@@ -2,5 +2,6 @@
   "versionCode": 2,
   "versionName": "2.0",
   "changeLog": "Nothing to change...",
-  "isForceUpdate": false
+  "isForceUpdate": false,
+  "srcUrl": "market"
 }
