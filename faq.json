@@ -12,6 +12,10 @@
     "body": "•Open project details page,\n•Click on the plus(+) FAB on the bottom right corner,\n•Select Permission or Dependency what you want,\n•Mark your required permissions or dependency,\n•Click on the bottom right FAB."
   },
   {
+    "title": "How to create a new Fragment?",
+    "body": "•Browse where you want to create a new Fragment under 'java' directory,\n•Click on bottom right FAB,\n•Click on 'New Class',\n•Then click on 'Fragment',\n•Provide required informations,\n•Click on the 'Create' button."
+  },
+  {
     "title": "How to add vector asset to an existing project?",
     "body": "•Open drawable folder under res directory,\n•Click on the plus(+) FAB,\n•Click on 'New Drawable',\n•Then click on 'Vector Drawable',\n•Click on your desired Vector Asset, you can search also,\n•Customize according to your need,\n•Click on the 'Import' button."
   }
