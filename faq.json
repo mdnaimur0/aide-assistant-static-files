@@ -1,6 +1,14 @@
 [
   {
-    "title": "Why project can not be opened in AIDE through this app?",
-    "body": ""
+    "title": "How to create project using AIDE Assistant?",
+    "body": "•Click on the FAB(+) in the bottom right corner,\n•Choose a tamplate you want to use for your project,\n•Provide required informations,\n•Click on the 'Create Project' button below."
+  },
+  {
+    "title": "How to create new Activity, Service, Content Provider or Broadcast receiver?",
+    "body": "•Open project details page,\n•Click on the plus(+) FAB on the bottom right corner,\n•Select what you want to create,\n•Provide required informations,\n•Click on 'Create' button."
+  },
+  {
+    "title": "How to add permissions or dependency?",
+    "body": "•Open project details page,\n•Click on the plus(+) FAB on the bottom right corner,\n•Select Permission or Dependency what you want,\n•Mark your required permissions or dependency,\n•Click on the bottom right FAB."
   }
 ]
