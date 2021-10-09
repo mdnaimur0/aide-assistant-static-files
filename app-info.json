@@ -1,7 +1,7 @@
 {
   "versionCode": 2,
   "versionName": "2.0",
-  "changeLog": "Nothing to change.....",
+  "changeLog": "<h4>1.0</h4><b>Features</b><br/>•View all projects together under specified directory,<br/>•Easy project management (Rename, delete or open in AIDE),<br/>•View all components of a project together (Activity, Permission, Dependency, Service etc.),<br/>•View project icon,<br/>•Create new Activity, Fargment, Service, Broadcast receiver, Content provider or add more permission and dependency (Androidx or Support Library),<br/>•View codes with color highlighting and multiple theme,<br/>•Vector Asset preview (has limitations),<br/>•View all text files and image files,<br/>•Font preview is also available,<br/>•6 project tamplates & easy way to create project,<br/>•6000+ Vector Asset to import in your project,<br/>•Adding new files from storage,<br/>•No ads.",
   "isForceUpdate": false,
   "srcUrl": "market"
 }
