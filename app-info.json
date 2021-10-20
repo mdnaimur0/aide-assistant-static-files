@@ -1,7 +1,7 @@
 {
   "versionCode": 1,
-  "versionName": "1.0",
-  "changeLog": "<big><b>1.0</b></big><b> (Features)</b><br/>•View all projects together under specified directory,<br/>•Easy project management (Rename, delete or open in AIDE),<br/>•View all components of a project together (Activity, Permission, Dependency, Service etc.),<br/>•View project icon,<br/>•Create new Activity, Fargment, Service, Broadcast receiver, Content provider or add more permission and dependency (Androidx or Support Library),<br/>•View codes with color highlighting and multiple theme,<br/>•Vector Asset preview (has limitations),<br/>•View all text files and image files,<br/>•Font preview is also available,<br/>•6 project tamplates & easy way to create project,<br/>•6000+ Vector Asset to import in your project,<br/>•Adding new files from storage,<br/>•No ads.<br/> and many more...",
+  "versionName": "1.1",
+  "changeLog": "<big>What's new:</big><br/>-Added SVG files preview,<br/>-Added Markdown (.md) files preview,<br/>-Minor bugs fixed.<br/><br/><big><b>1.0 (2021-10-11)</b></big><br/><b>Features</b><br/>-View all projects together under specified directory,<br/>-Easy project management (Rename, delete or open in AIDE),<br/>-View all components of a project together (Activity, Permission, Dependency, Service etc.),<br/>-View project icon,<br/>-Create new Activity, Fargment, Service, Broadcast receiver, Content provider or add more permission and dependency (Androidx or Support Library),<br/>-View codes with color highlighting and multiple theme,<br/>-Vector Asset preview (has limitations),<br/>-View all text files and image files,<br/>-Font preview is also available,<br/>-6 project tamplates & easy way to create project,<br/>-6000+ Vector Asset to import in your project,<br/>-Adding new files from storage,<br/>-No ads.<br/> and many more...",
   "isForceUpdate": false,
   "srcUrl": "https://apkpure.com/p/com.mdinnovation.aideassistant"
 }
