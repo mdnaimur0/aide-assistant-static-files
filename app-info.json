@@ -2,5 +2,6 @@
   "versionCode": 2,
   "versionName": "1.1.6.22",
   "changeLog": "<big>What's new:</big><br/>◉ UI updated (Material3 design)<br>◉ Added SVG files preview<br>◉ Added Markdown (.md) files preview<br>◉ More vector icons added<br>◉ Now you can export projects as ZIP<br>◉ Change logs added<br>◉ Some major & minor bugs fixed.",
-  "isForceUpdate": false
+  "isForceUpdate": false,
+  "srcUrl": "https://apkpure.com/p/com.mdinnovation.aideassistant"
 }
