@@ -1,9 +1,9 @@
 [
   {
-      "title": "Self add content",
-      "message": "This is for testing self ad content",
-      "button_text": "Test",
-      "action_url": "https://raw.githubusercontent.com/Md-Innovation-1420/aide-assistant-data/main/ad_contents/demo_content.jsons",
-      "enabled": false
+      "title": "Retrofit library using AIDE!",
+      "message": "Use Retrofit HTTP library in your project using AIDE without any error.",
+      "button_text": "Learn",
+      "action_url": "https://www.youtube.com/watch?v=e_LjMSGvO-4",
+      "enabled": true
     }
 ]
