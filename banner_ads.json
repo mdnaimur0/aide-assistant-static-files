@@ -1,5 +1,12 @@
 [
   {
+      "title": "Facing bugs or crashes?",
+      "message": "If you are facing any bugs or problems while using AIDE Assistant, please let us know.",
+      "button_text": "Report",
+      "action_url": "https://forms.gle/W4HY7yGc7swrrZ9y8",
+      "enabled": true
+    },
+    {
       "title": "Retrofit library in your project!",
       "message": "Use Retrofit HTTP library in your project using AIDE without any error.",
       "button_text": "Learn",
