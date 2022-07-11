@@ -11,13 +11,13 @@
       "message": "Android 10 or above users must update now. It brings a mentionable change.",
       "button_text": "Update",
       "action_url": "https://apkpure.com/p/com.mdinnovation.aideassistant",
-      "enabled": true
+      "enabled": false
     },
     {
       "title": "Retrofit library in your project!",
       "message": "Use Retrofit HTTP library in your project using AIDE without any error.",
       "button_text": "Learn",
       "action_url": "https://www.youtube.com/watch?v=e_LjMSGvO-4",
-      "enabled": false
+      "enabled": true
     }
 ]
