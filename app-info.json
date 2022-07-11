@@ -1,5 +1,5 @@
 {
-  "versionCode": 4,
+  "versionCode": 3,
   "versionName": "1.2.7.22",
   "changeLog": "<big>What's new:</big><br>◉ File reading, writing & project creating bugs fixed for Android 10 or above<br>◉ Project exporting bug fixed & improved<br>◉ Some design improved<br>◉ Some minor bugs fixed.<br><br><big>1.1.6.22:</big><br>◉ UI updated (Material3 design)<br>◉ Added SVG files preview<br>◉ Added Markdown (.md) files preview<br>◉ More vector icons added<br>◉ Now you can export projects as ZIP<br>◉ Change logs added<br>◉ Some major & minor bugs fixed.",
   "isForceUpdate": false,
