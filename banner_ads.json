@@ -7,6 +7,13 @@
       "enabled": true
     },
     {
+      "title": "Rate AIDE Assistant",
+      "message": "Rate this app & leave a feedback to improve it more.",
+      "button_text": "Rate",
+      "action_url": "https://apkpure.com/p/com.mdinnovation.aideassistant",
+      "enabled": true
+    },
+    {
       "title": "Update(1.2.7.22) Available!",
       "message": "Android 10 or above users must update now. It brings a mentionable change.",
       "button_text": "Update",
