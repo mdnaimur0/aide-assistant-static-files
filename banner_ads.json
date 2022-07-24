@@ -7,8 +7,8 @@
       "enabled": true
     },
     {
-      "title": "Rate AIDE Assistant",
-      "message": "Rate this app & leave a feedback to improve it more.",
+      "title": "Rate AIDE Assistant!",
+      "message": "Rate this app & leave a feedback to help improving it more.",
       "button_text": "Rate",
       "action_url": "https://apkpure.com/p/com.mdinnovation.aideassistant",
       "enabled": true
