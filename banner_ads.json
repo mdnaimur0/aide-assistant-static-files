@@ -1,5 +1,13 @@
 [
-  {
+  
+    {
+      "title": "Promote app, website or other bussiness",
+      "message": "Reach our users with your product through our advertisement system like this.",
+      "button_text": "Details",
+      "action_url": "https://raw.githubusercontent.com/Md-Innovation-1420/aide-assistant-data/main/ad_contents/promote_with_ad.jsons",
+      "enabled": true
+    },
+    {
       "title": "Facing bugs or crashes?",
       "message": "Report if you are facing any bugs or problems using AIDE Assistant.",
       "button_text": "Report",
@@ -10,13 +18,6 @@
       "title": "Rate AIDE Assistant!",
       "message": "Rate this app & leave a feedback to help improving it more.",
       "button_text": "Rate",
-      "action_url": "https://apkpure.com/p/com.mdinnovation.aideassistant",
-      "enabled": true
-    },
-    {
-      "title": "Update(1.2.7.22) Available!",
-      "message": "Android 10 or above users must update now. It brings a mentionable change.",
-      "button_text": "Update",
       "action_url": "https://apkpure.com/p/com.mdinnovation.aideassistant",
       "enabled": false
     },
