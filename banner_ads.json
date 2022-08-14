@@ -5,7 +5,7 @@
       "message": "Reach our users with your product through our advertisement system like this.",
       "button_text": "Details",
       "action_url": "https://raw.githubusercontent.com/Md-Innovation-1420/aide-assistant-data/main/ad_contents/promote_with_ad.jsons",
-      "enabled": true
+      "enabled": false
     },
     {
       "title": "Facing bugs or crashes?",
