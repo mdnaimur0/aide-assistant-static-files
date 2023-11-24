@@ -1,5 +1,5 @@
 {
-  "versionCode": 5,
+  "versionCode": 4,
   "versionName": "1.3.11.23",
   "changeLog": "<big>What's new:</big><br>- Added HTML Preview<br>- Implemented Push Notification<br>- Added String Translator (Raw & XML)<br>- Implemented Simplified Value Resource Management (color, string, dimen)<br>- Added JSON to Java Model Class (POJO) Generator<br>- Made Major & Minor Improvements",
   "isForceUpdate": true,
