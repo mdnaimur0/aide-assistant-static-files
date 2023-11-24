@@ -12,7 +12,7 @@
       "message": "Report if you are facing any bugs or problems using AIDE Assistant.",
       "button_text": "Report",
       "action_url": "https://forms.gle/W4HY7yGc7swrrZ9y8",
-      "enabled": true
+      "enabled": false
     },
     {
       "title": "Rate AIDE Assistant!",
@@ -26,6 +26,6 @@
       "message": "Use Retrofit HTTP library in your project using AIDE without any error.",
       "button_text": "Learn",
       "action_url": "https://www.youtube.com/watch?v=e_LjMSGvO-4",
-      "enabled": true
+      "enabled": false
     }
 ]

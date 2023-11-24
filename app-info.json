@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2.7.22",
-  "changeLog": "<big>What's new:</big><br>◉ File reading, writing & project creating bugs fixed for Android 10 or above<br>◉ Project exporting bug fixed & improved<br>◉ Some design improved<br>◉ Some minor bugs fixed.<br><br><big>1.1.6.22:</big><br>◉ UI updated (Material3 design)<br>◉ Added SVG files preview<br>◉ Added Markdown (.md) files preview<br>◉ More vector icons added<br>◉ Now you can export projects as ZIP<br>◉ Change logs added<br>◉ Some major & minor bugs fixed.",
-  "isForceUpdate": false,
+  "versionCode": 5,
+  "versionName": "1.3.11.23",
+  "changeLog": "<big>What's new:</big><br>- Added HTML Preview<br>- Implemented Push Notification<br>- Added String Translator (Raw & XML)<br>- Implemented Simplified Value Resource Management (color, string, dimen)<br>- Added JSON to Java Model Class (POJO) Generator<br>- Made Major & Minor Improvements",
+  "isForceUpdate": true,
   "srcUrl": "https://apkpure.com/p/com.mdinnovation.aideassistant"
 }
