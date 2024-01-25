@@ -12,14 +12,14 @@
       "message": "Report if you are facing any bugs or problems using AIDE Assistant.",
       "button_text": "Report",
       "action_url": "https://forms.gle/W4HY7yGc7swrrZ9y8",
-      "enabled": false
+      "enabled": true
     },
     {
       "title": "Rate AIDE Assistant!",
       "message": "Rate this app & leave a feedback to help improving it more.",
       "button_text": "Rate",
-      "action_url": "https://apkpure.com/p/com.mdinnovation.aideassistant",
-      "enabled": false
+      "action_url": "https://apkpure.net/p/com.mdinnovation.aideassistant",
+      "enabled": true
     },
     {
       "title": "Retrofit library in your project!",
