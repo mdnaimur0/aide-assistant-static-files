@@ -1,7 +1,7 @@
 {
     "title": "Should AIDE Assistant be discontinued?",
     "body": "Dear users, thanks for using AIDE Assistant Android Application.\n\nOur app AIDE Assistant is a companion app to help you develop Android apps on your Android phone with AIDE-Android IDE. You know, AIDE is no longer getting updates and its users are decreasing. So it's irrelevant to continue developing AIDE Assistant in this situation. Moreover, we do not generate any revenue from AIDE Assistant. You as a developer, know how time-consuming and hard to develop Android apps is. Yet we continued developing AIDE Assistant from the beginning of 2021 until now just to help my brothers and sisters who started to grow their Android development carrier using their phones.\n\nHowever, we created a form just to know about your opinion about the discontinuation of the development of AIDE Assistant. We'll finalize our decision according to the responses. Submit your opinion clicking the SUBMIT button.",
-    "image_url": "https://raw.githubusercontent.com/mdnaimur0/aide-assistant-static-files/main/images/feature-request.jpg",
+    "image_url": "https://raw.githubusercontent.com/mdnaimur0/aide-assistant-static-files/main/images/attention.jpeg",
     "action": {
         "label": "SUBMIT",
         "url": "https://forms.gle/tf47iP7rbtB3QniL7"
