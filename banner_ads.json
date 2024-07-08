@@ -12,14 +12,14 @@
       "message": "Report if you are facing any bugs or problems using AIDE Assistant.",
       "button_text": "Report",
       "action_url": "https://forms.gle/W4HY7yGc7swrrZ9y8",
-      "enabled": true
+      "enabled": false
     },
     {
       "title": "Rate AIDE Assistant!",
       "message": "Rate this app & leave a feedback to help improving it more.",
       "button_text": "Rate",
       "action_url": "https://apkpure.net/p/com.mdinnovation.aideassistant",
-      "enabled": true
+      "enabled": false
     },
     {
       "title": "Retrofit library in your project!",
@@ -27,5 +27,12 @@
       "button_text": "Learn",
       "action_url": "https://www.youtube.com/watch?v=e_LjMSGvO-4",
       "enabled": false
+    },
+    {
+      "title": "Should AIDE Assistant be discontinued?",
+      "message": "Submit your opinion about the discontinuation of AIDE Assistant",
+      "button_text": "Submit",
+      "action_url": "https://forms.gle/tf47iP7rbtB3QniL7",
+      "enabled": true
     }
 ]
